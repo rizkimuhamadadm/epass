@@ -16,7 +16,7 @@ A custom Wi-Fi password wordlist containing the most commonly used passwords, nu
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com
+git clone https://github.com/rizkimuhamadadm/epass.git
 cd epass
 ```
 
